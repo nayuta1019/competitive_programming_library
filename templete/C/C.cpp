@@ -10,7 +10,7 @@ using namespace std;
 #define all(x) (x).begin(), (x).end()
 
 // typedef
-typedef long long lint;
+typedef long long llint;
 typedef unsigned long long ull;
 typedef complex<long double> Complex;
 typedef pair<int, int> P;
@@ -20,7 +20,7 @@ typedef vector<vec> mat;
 
 // constant
 const int MOD = (int)1e9 + 7;
-const int INF = (int)1e18;
+const int INF = (int)1e9;
 const int dx[] = {0, 1, 0, -1};
 const int dy[] = {1, 0, -1, 0};
 const int ddx[] = {0, 1, 1, 1, 0, -1, -1, -1};
